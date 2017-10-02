@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BubbleColor">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="BubbleColor.RYB">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\BubbleColor.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEwAEAAAAAAAAAAICAAAABgAAAAAA=</HashCode>
+      <FileName>Assets\scripts\BubbleColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BubbleCollector">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAgAQAAAAAAAAAAAEAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\BubbleCollector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BubbleGenerator">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICgAAAAAACAcAAAAAgAAAAABAAAAAAAAAABAgAAAACA=</HashCode>
+      <FileName>Assets\scripts\BubbleGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BubbleTouchScript">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAkAyAAACAAAAACAAAZAAACAIAIAARgBgAACAA=</HashCode>
+      <FileName>Assets\scripts\BubbleTouchScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cmdLineLevelSelection">
+    <Position X="20" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\cmdLineLevelSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandLine">
+    <Position X="20" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\scripts\CommandLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandLineSettings">
+    <Position X="21.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAQAEA=</HashCode>
+      <FileName>Assets\scripts\CommandLineSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="GameManager.GameState">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\GameManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EIQAAIAUAIAIEAAAACAAQAAEIgFAEABgAgJgABAQAOA=</HashCode>
+      <FileName>Assets\scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenueManager">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAgACHAAAARAAIACAAAEAACAAABAIABAAAAAEgA=</HashCode>
+      <FileName>Assets\scripts\MainMenueManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obstacles">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAACBAAAAAAAAAAAAAAEAAAQAAAAAAQAIAAAA=</HashCode>
+      <FileName>Assets\scripts\Obstacles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlaceWalls">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\PlaceWalls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReloadLevel">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\ReloadLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RYBDrawer">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAABAAAAAAAAAAAAAAAAEAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\RYBDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextWriter">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAAAAAAAAABAAAIAAECAAAEAAgICGI=</HashCode>
+      <FileName>Assets\scripts\TextWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToMainMenu">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\ToMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToNextLevel">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\ToNextLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserManager">
+    <Position X="23.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAABAAAAAAAACAAAAAgAAABAAAAAQAAAAQACAAA=</HashCode>
+      <FileName>Assets\scripts\UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

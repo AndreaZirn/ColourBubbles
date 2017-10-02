@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6a05c91ea2daf495b9a764cf88b9a3dc
+timeCreated: 1497133842
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Lonssa '
+  fontNames:
+  - 'Lonssa '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
